@@ -1,4 +1,4 @@
-# MLMI-2025
+# Bias Dynamics in BabyLMs: Towards a Compute-Efficient Sandbox for Democratising Pre-Training Debiasing
 This repo is split into several folders based on their use-case:
 - **analysis:** Evaluation pipelines for performance and bias
 - **corpus:** Scripts for analysing and adjusting the corpora
